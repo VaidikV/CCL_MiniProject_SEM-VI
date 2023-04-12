@@ -1,4 +1,4 @@
-# CCL_MiniProject_SEM-VI
+# CCL: MiniProject [SEM-VI]
 
 #### Topic: APSIT Community
 
